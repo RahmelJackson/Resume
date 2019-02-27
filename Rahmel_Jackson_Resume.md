@@ -1,4 +1,4 @@
-# <p align="center">Rahmel Jackson Phone: 347-569-1433</p>
+# <p align="center">Rahmel Jackson\ Phone# 347-569-1433</p>
 
 ## Citi Bike, Operated by Motivate(Now Lyft)
 Data Analyst intern
